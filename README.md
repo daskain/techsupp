@@ -1,9 +1,9 @@
 # techsupp
 
-CalculateMac - расчет mac для host api
+[CalculateMac](https://github.com/daskain/techsupp/blob/master/src/CalcualteMac.java) - расчет mac для host api
 
-ELKConfig - конфига для elk
+[ELKConfig](https://github.com/daskain/techsupp/blob/master/src/ELKConfig.java) - конфига для elk
 
-CurlBuilderService - билдер запросов для host api
+[CurlBuilderService](https://github.com/daskain/techsupp/blob/master/src/CurlBuilderService.java) - билдер запросов для host api
 
-GetBinByBinInFileImpl - парсер файла с бинами
+[GetBinByBinInFileImpl](https://github.com/daskain/techsupp/blob/master/src/GetBinByBinInFileImpl.java) - парсер файла с бинами
